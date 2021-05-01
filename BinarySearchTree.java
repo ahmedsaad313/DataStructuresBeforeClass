@@ -147,7 +147,8 @@ public class BinarySearchTree <T extends Comparable<T>>{
     x.remove(6); 
     x.invertTree();
     x.printTree();
-   // x.printFancy();
+   // x.printFancy(); 
+   //comment
   }
   
 }
